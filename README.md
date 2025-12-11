@@ -1,8 +1,9 @@
 # 💫 Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Sarthak Gupta
 **Full-Stack Developer || AI Projects || DSA || CSE @ IIIT Bhopal**
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 Email Me 👉 ✉️ **sarthakgupta007brh@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 - 🔭 **I’m currently working on:** Real-Time Whiteboard, DSA
 - 🌱 **I’m currently learning:** Next.js, TypeScript, Cloud Deployment
 - 👯 **I’m looking to collaborate on:** AI Tools, Web Apps

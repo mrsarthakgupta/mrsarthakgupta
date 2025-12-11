@@ -1,23 +1,25 @@
-# 💫 Hi 👋, I'm Sarthak Gupta
+# 💫 Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Sarthak Gupta
 **Full-Stack Developer || AI Projects || DSA || CSE @ IIIT Bhopal**
 
 Email Me 👉 ✉️ **sarthakgupta007brh@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 - 🔭 **I’m currently working on:** Real-Time Whiteboard, DSA
 - 🌱 **I’m currently learning:** Next.js, TypeScript, Cloud Deployment
 - 👯 **I’m looking to collaborate on:** AI Tools, Web Apps
 - 🤔 **I’m looking for help with:** Scaling Backends & Optimizing UI
 - 💬 **Ask me about:** Full-Stack Dev, AI Integration, Clean Code
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I break things just to rebuild them better 😄
+- ⚡ **Fun fact:** I break things just to rebuild them better <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr.sarthakgupta/) &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakgupta-iiitbhopal) &nbsp;&nbsp;
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Sarthak-Gupta-1718) &nbsp;&nbsp;
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrsarthakgupta1) &nbsp;&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://studio.youtube.com/channel/UCE3g9q9g-FiQs9pmU8ISU2w) &nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr.sarthakgupta/) &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakgupta007brh@gmail.com)
+
 
 <!-- Snake Game Repo View -->
 <div align="center">

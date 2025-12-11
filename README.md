@@ -1,23 +1,23 @@
 # 💫 Hi 👋, I'm Sarthak Gupta
-**Full-Stack Developer || AI Projects || CSE @ IIIT Bhopal**
+**Full-Stack Developer || AI Projects || DSA || CSE @ IIIT Bhopal**
 
-Email Me 👉 ✉️ **sarthakgupta22032004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sarthakgupta007brh@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** AI Voice Assistant, Full-Stack Apps
+- 🔭 **I’m currently working on:** Real-Time Whiteboard, DSA
 - 🌱 **I’m currently learning:** Next.js, TypeScript, Cloud Deployment
 - 👯 **I’m looking to collaborate on:** AI Tools, Web Apps
 - 🤔 **I’m looking for help with:** Scaling Backends & Optimizing UI
 - 💬 **Ask me about:** Full-Stack Dev, AI Integration, Clean Code
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I build faster when I’m excited about the idea 😄
+- ⚡ **Fun fact:** I break things just to rebuild them better 😄
   
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrsarthakgupta) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakgupta-iiitbhopal) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sarthak-Gupta-1718) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrsarthakgupta1) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCE3g9q9g-FiQs9pmU8ISU2w) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakgupta007brh@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr.sarthakgupta/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakgupta-iiitbhopal)  
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Sarthak-Gupta-1718)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrsarthakgupta1)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakgupta007brh@gmail.com)
 
 <!-- Snake Game Repo View -->
 <div align="center">

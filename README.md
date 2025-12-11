@@ -2,7 +2,7 @@
 **Full-Stack Developer || AI Projects || DSA || CSE @ IIIT Bhopal**
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Email Me 👉 ✉️ **sarthakgupta007brh@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sarthakgupta007brh@gmail.com** For Collaboration/Project or Anything Else.😊😊
 
 - 🔭 **I’m currently working on:** Real-Time Whiteboard, DSA
 - 🌱 **I’m currently learning:** Next.js, TypeScript, Cloud Deployment

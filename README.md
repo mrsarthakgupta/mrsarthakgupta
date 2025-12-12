@@ -12,15 +12,18 @@ Email Me 👉 ✉️ **sarthakgupta007brh@gmail.com** For Collaboration/Project 
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I break things just to rebuild them better <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   
-## 🌐 Socials:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height=50px>
+## 🌐 Socials <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakgupta-iiitbhopal) &nbsp;&nbsp;
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white)](https://sarthak-portfolio-orpin.vercel.app/) &nbsp;&nbsp;
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Sarthak-Gupta-1718) &nbsp;&nbsp;
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrsarthakgupta1) &nbsp;&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://studio.youtube.com/channel/UCE3g9q9g-FiQs9pmU8ISU2w) &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr.sarthakgupta/) &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakgupta007brh@gmail.com)
 
+## 🔗 Portfolio
+👉 **Live Website:** https://sarthak-portfolio-orpin.vercel.app/
 
 <!-- Snake Game Repo View -->
 <div align="center">

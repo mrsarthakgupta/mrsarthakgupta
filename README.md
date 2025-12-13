@@ -23,7 +23,11 @@ Email Me 👉 ✉️ **sarthakgupta007brh@gmail.com** For Collaboration/Project 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakgupta007brh@gmail.com)
 
 ## 🔗 Portfolio
-👉 **Live Website:** https://sarthak-portfolio-orpin.vercel.app/
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://sarthak-portfolio-orpin.vercel.app/)
+&nbsp;&nbsp;&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-green?style=for-the-badge)](https://drive.google.com/file/d/1Y7DlmSxFth9R3duL7dbc9fk1gC3gUQVJ/view?usp=sharing)
+
 
 <!-- Snake Game Repo View -->
 <div align="center">

@@ -1,14 +1,14 @@
 # 💫 Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Sarthak Gupta
-**Full-Stack Developer || AI Projects || DSA || CSE @ IIIT Bhopal**
+**AI & ML || Data Analytics || Business Intelligence || CSE @ IIIT Bhopal**
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 Email Me 👉 ✉️ **sarthakgupta007brh@gmail.com** For Collaboration/Project or Anything Else.😊
 
-- 🔭 **I’m currently working on:** Real-Time Whiteboard, DSA
-- 🌱 **I’m currently learning:** Next.js, TypeScript, Cloud Deployment
-- 👯 **I’m looking to collaborate on:** AI Tools, Web Apps
-- 🤔 **I’m looking for help with:** Scaling Backends & Optimizing UI
-- 💬 **Ask me about:** Full-Stack Dev, AI Integration, Clean Code
+- 🔭 **I’m currently working on:** Customer Shopping Behavior Analysis, Data Analytics
+- 🌱 **I’m currently learning:** Advanced SQL, Power BI, Statistics, Machine Learning
+- 👯 **I’m looking to collaborate on:** AI/ML Projects, Data Analytics, Business Intelligence
+- 🤔 **I’m looking for help with:** Feature Engineering, Model Optimization & Data Visualization
+- 💬 **Ask me about:** Python, SQL, Exploratory Data Analysis, Machine Learning
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I break things just to rebuild them better <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   
@@ -44,14 +44,10 @@ Email Me 👉 ✉️ **sarthakgupta007brh@gmail.com** For Collaboration/Project 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
